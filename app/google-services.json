@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "954851391811",
+    "firebase_url": "https://testing-dff61-default-rtdb.firebaseio.com",
+    "project_id": "testing-dff61",
+    "storage_bucket": "testing-dff61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954851391811:android:4ed7f1a882feb8916d57f6",
+        "android_client_info": {
+          "package_name": "com.example.gfghack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954851391811-94qoa0t5a2bn9l28icln34e7nrnppqes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw1wDR2w5iA7Ykpa03-YkNQfienPIuuCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954851391811-94qoa0t5a2bn9l28icln34e7nrnppqes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

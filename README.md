@@ -1,4 +1,5 @@
-# Agricare
+## OBJECTIVE
+
 The project aims to improve the current agricultural practices by using Internet of Things and google cloud services. It is an automated plant monitoring system which makes use of Humidity, Soil Moisture, Temperature and light-dependent resistor sensors. The system also has actuators to maintain the ideal conditions for the growth of plant. The irrigation of field is done using automatic drip irrigation, which operates according to the soil moisture threshold set accordingly so as optimal amount of water is applied to the plants.The android module provides the following functionalities:
 1. Disease prediction and solution
 2. IoT monitoring
